@@ -1,0 +1,19 @@
+.searchButton{
+    -fx-background-color: #0096FF;
+    -fx-text-fill: white;
+
+}
+
+.searchButton:hover{
+    -fx-background-color: #29bfff;
+    -fx-text-fill: white;
+}
+
+.errorLabel{
+    -fx-text-fill: red;
+}
+
+.welcomeSign{
+    -fx-font: 50px Arial;
+    -fx-fill: #0096FF;
+}

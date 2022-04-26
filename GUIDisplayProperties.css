@@ -1,0 +1,58 @@
+.root {
+    -fx-border-color: #0096FF;
+    -fx-border-width: 3px;
+    -fx-border-radius: 5px;
+}
+
+.button{
+    -fx-font-size: 12px;
+    -fx-padding: 10px;
+    -fx-spacing: 10px;
+   
+}
+
+#exit{
+     -fx-alignment: bottom-right;
+}
+
+#boroughTitle{
+    -fx-font-size: 18px; 
+    -fx-font-weight: bolder;
+    -fx-font-family:serif;
+    -fx-padding: 10px;
+    
+}
+
+#mainData{
+    -fx-background-color: #D5D5D5;
+    -fx-border-color: #C5C5C5;
+    -fx-border-width: 3px;
+    -fx-background-position: center;
+}
+
+#data{
+    -fx-font-size: 12px;
+    -fx-padding: 10px;
+    
+}
+#dataLabels{
+    -fx-font-size: 12px;
+    -fx-padding: 10px;
+}
+
+#information{
+    -fx-background-position: center;
+    -fx-alignment: CENTER;
+}
+#contentPane2{
+    -fx-background-color: #D5D5D5;
+}
+
+#nameProperty{
+    -fx-font-size: 18px; 
+    -fx-font-weight: bolder;
+    -fx-font-family:serif;
+    -fx-padding: 10px;
+}
+
+ 
